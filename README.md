@@ -1,7 +1,7 @@
 # taleau-bike-analytics
 Tableau-cityBikeAnalysis
 
-![x]("AgeVsTripDuration.png")
+![x]("img/AgeVsTripDuration.png")
 
 ![x]("AverageAge.png")
 
