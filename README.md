@@ -1,5 +1,4 @@
-# taleau-bike-analytics
-Tableau-cityBikeAnalysis
+# CityBike-Analysis--Tableau
 
 # Background
 
@@ -63,7 +62,7 @@ How variable is the utilization by bike ID?
 
 ![x]("img/AgeVsTripDuration.png")
 
-![x]("AverageAge.png")
+![x]("AverageAge.png.png")
 
 ![x]("BikeUtilization.png")
 
@@ -79,5 +78,5 @@ How variable is the utilization by bike ID?
 
 ![x]("TripDuration.png")
 
-![x]("")
+![x]("TripDuration")
 
