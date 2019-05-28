@@ -78,5 +78,5 @@ How variable is the utilization by bike ID?
 
 ![x]("TripDuration.png")
 
-![x]("TripDuration")
+![x]("DistanceGender.png").
 
