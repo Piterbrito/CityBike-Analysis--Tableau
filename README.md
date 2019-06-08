@@ -60,23 +60,23 @@ How variable is the utilization by bike ID?
 
 # Report
 
-![x]("img/AgeVsTripDuration.png")
+![x](img/AgeVsTripDuration.png)
 
-![x]("AverageAge.png.png")
+![x](AverageAge.png.png)
 
-![x]("BikeUtilization.png")
+![x](BikeUtilization.png)
 
-![x]("DistanceGender.png")
+![x](DistanceGender.png)
 
-![x]("EndStation.png")
+![x](EndStation.png)
 
-![x]("Gender.png")
+![x](Gender.png)
 
-![x]("GenderRecord.png")
+![x](GenderRecord.png)
 
-![x]("Startstation.png")
+![x](Startstation.png)
 
-![x]("TripDuration.png")
+![x](TripDuration.png)
 
-![x]("DistanceGender.png").
+![x](DistanceGender.png).
 
